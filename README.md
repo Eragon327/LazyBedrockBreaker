@@ -8,17 +8,17 @@ Minecraft基岩版一键破基岩辅助，基于[CoralFans](https://github.com/C
 4. 重启服务器，或在服务器控制台输入 'll load LazyBedrockBreaker'
 
 ## 如何使用
-/bb 所有玩家均可使用
-/bb isopen true | false 开关懒狗破基岩（需要全局设置开启）
-/bb list 查看方块白名单内所有方块的类型
-/bbmaster 仅管理员可用
-/bbmaster isopen | false 开关全局懒狗破基岩
-/bbmaster add 把指着的方块加入到方块白名单
-/bbmaster remove 把指着的方块移出方块白名单
-/bbmaster list 同/bb list
+### /bb 所有玩家均可使用  
+/bb isopen true | false 开关懒狗破基岩（需要全局设置开启）  
+/bb list 查看方块白名单内所有方块的类型  
+### /bbmaster 仅管理员可用  
+/bbmaster isopen | false 开关全局懒狗破基岩  
+/bbmaster add 把指着的方块加入到方块白名单  
+/bbmaster remove 把指着的方块移出方块白名单  
+/bbmaster list 同 /bb list
 
 ## 兼容性
-Minecraft Bedrock Edition 1.21.93
+Minecraft Bedrock Edition 1.21.93  
 其他版本未测试
 
 ## 语言
