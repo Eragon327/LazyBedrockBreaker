@@ -12,7 +12,7 @@ Minecraft基岩版一键破基岩辅助，基于[CoralFans](https://github.com/C
 /bb isopen true | false 开关懒狗破基岩（需要全局设置开启）  
 /bb list 查看方块白名单内所有方块的类型  
 ### /bbmaster 仅管理员可用  
-/bbmaster isopen | false 开关全局懒狗破基岩  
+/bbmaster isopen true | false 开关全局懒狗破基岩  
 /bbmaster add 把指着的方块加入到方块白名单  
 /bbmaster remove 把指着的方块移出方块白名单  
 /bbmaster list 同 /bb list
