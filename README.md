@@ -15,7 +15,7 @@ Minecraft基岩版一键破基岩辅助，基于[CoralFans](https://github.com/C
 /bbmaster isopen true | false 开关全局懒狗破基岩  
 /bbmaster add 把指着的方块加入到方块白名单  
 /bbmaster remove 把指着的方块移出方块白名单  
-/bbmaster reset 重置方块白名单
+/bbmaster reset 重置方块白名单 
 /bbmaster list 同 /bb list
 ### 确保功能开启后
 确保背包里有至少一个红石块，手持活塞/粘性活塞点击你要破的基岩即可
