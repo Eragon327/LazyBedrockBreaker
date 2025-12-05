@@ -1,5 +1,5 @@
 # LazyBedrockBreaker
-Minecraft基岩版一键破基岩辅助，基于 [LegacyScriptEngine](https://github.com/LiteLDev/LegacyScriptEngine)。
+Minecraft基岩版一键破基岩辅助，基于[LegacyScriptEngine](https://github.com/LiteLDev/LegacyScriptEngine)。
 
 ## 如何安装
 1. 安装 LegacyScriptEngine([官方教程](https://lse.levimc.org/zh/))
@@ -24,5 +24,28 @@ Minecraft基岩版一键破基岩辅助，基于 [LegacyScriptEngine](https://gi
 Minecraft Bedrock Edition 1.21.93  
 其他版本未测试
 
-## 语言
-仅简体中文
+# LazyBedrockBreaker
+A one-click bedrock breaking tool for Minecraft Bedrock Edition, based on [LegacyScriptEngine](https://github.com/LiteLDev/LegacyScriptEngine).
+
+## How to Install
+1. Install LegacyScriptEngine ([Official Guide](https://lse.levimc.org/zh/))
+2. Download the [latest Release](https://github.com/Eragon327/LazyBedrockBreaker/releases)
+3. Extract the archive and place the entire folder into the server's 'plugins' directory
+4. Restart the server, or run the command 'll load LazyBedrockBreaker' in the server console
+
+## How to Use
+### /bb Available to all players  
+/bb isopen true | false Turn on/off Lazy Bedrock Breaking (requires the global setting to be enabled)  
+/bb list View all block types in the block whitelist  
+### /bbmaster Available to administrators only  
+/bbmaster isopen true | false Turn on/off global Lazy Bedrock Breaking  
+/bbmaster add Add the targeted block to the block whitelist  
+/bbmaster remove Remove the targeted block from the block whitelist  
+/bbmaster reset Reset the block whitelist  
+/bbmaster list Same as /bb list  
+### Ensure the feature is enabled
+Make sure you have at least one redstone block in your inventory. Hold a piston/sticky piston and click on the bedrock you want to break.
+
+## Compatibility
+Minecraft Bedrock Edition 1.21.93  
+Other versions have not been tested
