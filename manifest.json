@@ -1,0 +1,12 @@
+{
+  "name": "LazyBedrockBreaker",
+  "entry": "LazyBedrockBreaker.js",
+  "type": "lse-quickjs",
+  "version": "3.0.0",
+  "language": "zh-cn",
+  "dependencies": [
+    {
+      "name": "legacy-script-engine-quickjs"
+    }
+  ]
+}

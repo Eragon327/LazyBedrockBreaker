@@ -1,0 +1,23 @@
+{
+    "cmdDesc_bb": "Rompebedrock perezoso",
+    "cmdDesc_bbmaster": "Configurar Rompebedrock perezoso",
+    "error_unknownPlayer": "¡Jugador desconocido!",
+    "error_funcNotOpen": "¡Rompebedrock perezoso no está activado!",
+    "success_funcEnabled": "¡Se ha activado Rompebedrock perezoso!",
+    "success_funcDisabled": "¡Se ha desactivado Rompebedrock perezoso!",
+    "success_whitelistHeader": "Tipos de bloques en la lista blanca:",
+    "success_globalFuncToggled": "¡Rompebedrock perezoso global ha sido {status}!",
+    "log_adminToggled": "¡El administrador {player} {status} Rompebedrock perezoso global!",
+    "error_aimAtBlock": "¡Por favor, apunta a un bloque!",
+    "error_blockInWhitelist": "¡Este tipo de bloque ya está en la lista blanca!",
+    "success_blockAdded": "¡Se ha añadido {block} a la lista blanca!",
+    "log_blockAdded": "El administrador {player} añadió el tipo de bloque {block} a la lista blanca",
+    "error_blockNotInWhitelist": "¡Este tipo de bloque no está en la lista blanca!",
+    "success_blockRemoved": "¡Se ha eliminado {block} de la lista blanca!",
+    "log_blockRemoved": "El administrador {player} eliminó el tipo de bloque {block} de la lista blanca",
+    "success_whitelistReset": "¡Se ha restablecido la lista blanca!",
+    "log_whitelistReset": "¡El administrador {player} restableció la lista blanca!",
+    "status_enabled": "activado",
+    "status_disabled": "desactivado",
+    "error_taskExecution": "Error al ejecutar la tarea: {error}"
+}

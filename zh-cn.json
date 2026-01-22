@@ -1,0 +1,23 @@
+{
+    "cmdDesc_bb": "懒狗破基岩",
+    "cmdDesc_bbmaster": "配置懒狗破基岩",
+    "error_unknownPlayer": "未知的玩家！",
+    "error_funcNotOpen": "懒狗破基岩未开启！",
+    "success_funcEnabled": "已开启懒狗破基岩功能！",
+    "success_funcDisabled": "已关闭懒狗破基岩功能！",
+    "success_whitelistHeader": "白名单中的方块类型有：",
+    "success_globalFuncToggled": "已{status}全局懒狗破基岩功能！",
+    "log_adminToggled": "管理员 {player} {status}了全局懒狗破基岩功能！",
+    "error_aimAtBlock": "请对准一个方块！",
+    "error_blockInWhitelist": "该方块类型已在白名单中！",
+    "success_blockAdded": "已将 {block} 添加到白名单中！",
+    "log_blockAdded": "管理员 {player} 将方块类型 {block} 添加到白名单",
+    "error_blockNotInWhitelist": "该方块类型不在白名单中！",
+    "success_blockRemoved": "已将{block}从白名单中移除！",
+    "log_blockRemoved": "管理员 {player} 将方块类型 {block} 移出了白名单",
+    "success_whitelistReset": "已重置白名单！",
+    "log_whitelistReset": "管理员 {player} 重置了白名单！",
+    "status_enabled": "开启",
+    "status_disabled": "关闭",
+    "error_taskExecution": "任务执行出错：{error}"
+}

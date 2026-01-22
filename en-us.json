@@ -1,0 +1,23 @@
+{
+    "cmdDesc_bb": "Lazy Bedrock Breaking",
+    "cmdDesc_bbmaster": "Configure Lazy Bedrock Breaking",
+    "error_unknownPlayer": "Unknown player!",
+    "error_funcNotOpen": "Lazy Bedrock Breaking is not enabled!",
+    "success_funcEnabled": "Lazy Bedrock Breaking has been enabled!",
+    "success_funcDisabled": "Lazy Bedrock Breaking has been disabled!",
+    "success_whitelistHeader": "Block types in the whitelist:",
+    "success_globalFuncToggled": "Global Lazy Bedrock Breaking has been {status}!",
+    "log_adminToggled": "Admin {player} {status} global Lazy Bedrock Breaking!",
+    "error_aimAtBlock": "Please aim at a block!",
+    "error_blockInWhitelist": "This block type is already in the whitelist!",
+    "success_blockAdded": "Added {block} to the whitelist!",
+    "log_blockAdded": "Admin {player} added block type {block} to the whitelist",
+    "error_blockNotInWhitelist": "This block type is not in the whitelist!",
+    "success_blockRemoved": "Removed {block} from the whitelist!",
+    "log_blockRemoved": "Admin {player} removed block type {block} from the whitelist",
+    "success_whitelistReset": "Whitelist has been reset!",
+    "log_whitelistReset": "Admin {player} reset the whitelist!",
+    "status_enabled": "enabled",
+    "status_disabled": "disabled",
+    "error_taskExecution": "Task execution error: {error}"
+}
